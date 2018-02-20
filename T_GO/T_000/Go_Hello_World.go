@@ -2,9 +2,12 @@
 // Click here and start typing.
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Hello, 世界")
-	fmt.Println("Gg na kids")
+	fmt.Println("Welcome to Go")
+
 }
